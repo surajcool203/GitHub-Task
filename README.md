@@ -5,22 +5,18 @@
 
 Replace `<NAME>` with your Name in this guide.
 
-## 1. Create the folder _data/YOUR-NAME/ 
-Fork this repository, create a new folder inside the `_data` folder, and name it with your Name. It should look something like this `_data/<NAME>/`. Ex.
+## 1. Create the file YOUR-NAME 
+Fork this repository, create a new file and name it with your Name. It should look something like this `<NAME.md>`. Ex.
 
 
 ```
-_data/Akshat/
+Akshat.md
 ```
 
 
 
 ## 2. Add your profile information
-Create a markdown file in your folder following the convention `<YOUR-USERNAME>.md`. Ex.
 
-```
-_data/MonaTheOctocat/MonaTheOctocat.md
-```
 Copy the next template into your file, delete the boilerplate data and fill the information with yours.
 ```
 ---
