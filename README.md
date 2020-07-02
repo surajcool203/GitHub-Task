@@ -12,6 +12,8 @@ Fork this repository, create a new file and name it with your Name. It should lo
 ```
 Akshat.md
 ```
+ ![](https://i.ibb.co/R4p91T9/fork1.jpg)
+ ![](https://i.ibb.co/PGymWWZ/1-0-2-Git-create-file.png)
 
 
 
@@ -20,11 +22,11 @@ Akshat.md
 Copy the next template into your file, delete the boilerplate data and fill the information with yours.
 ```
 ---
-name: FULLNAME # No longer than 28 characters
-institution: INSTITUTION-NAME 🚩 # no longer than 58 characters
-year: YOUR-ACADEMIC-YEAR # 1st, 2nd, 3rd or 4th.
-github_user: YOUR-GITHUB-USERNAME
-phone no.: YOUR-CONTACT-NO.
+Name: FULLNAME # No longer than 28 characters
+Institution: INSTITUTION-NAME 🚩 # no longer than 58 characters
+Year: YOUR-ACADEMIC-YEAR # 1st, 2nd, 3rd or 4th.
+Github_user: YOUR-GITHUB-USERNAME
+Phone no.: YOUR-CONTACT-NO.
 ---
 ```
 
