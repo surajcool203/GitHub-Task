@@ -29,7 +29,11 @@ Github_user: YOUR-GITHUB-USERNAME
 Phone no.: YOUR-CONTACT-NO.
 ---
 ```
+ ![](https://imgur.com/5GvomUC)
 
 _Do not use special characters in the template above._
 
 ## 4. Form & Pull Request
+
+ ![](https://i.ibb.co/hMKw4J0/2020-07-02-11-50.png)
+
