@@ -16,7 +16,7 @@ Akshat.md
  ![](https://i.ibb.co/PGymWWZ/1-0-2-Git-create-file.png)
 
 
-
+##
 ## 2. Add your profile information
 
 Copy the next template into your file, delete the boilerplate data and fill the information with yours.
@@ -29,11 +29,19 @@ Github_user: YOUR-GITHUB-USERNAME
 Phone no.: YOUR-CONTACT-NO.
 ---
 ```
- ![](https://imgur.com/5GvomUC)
+![](https://github.com/technojam/GitHub-Task/blob/master/img/details.png)
+
+Then commit changes
+##
+![](https://github.com/technojam/GitHub-Task/blob/master/img/commit%20changes.png)
 
 _Do not use special characters in the template above._
+##
 
 ## 4. Form & Pull Request
 
+Find the pull request button and make a PR
+ ![](https://github.com/technojam/GitHub-Task/blob/master/img/pull%20request.png)
+ ##
  ![](https://i.ibb.co/hMKw4J0/2020-07-02-11-50.png)
 
