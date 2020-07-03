@@ -43,5 +43,5 @@ _Do not use special characters in the template above._
 Find the pull request button and make a PR
  ![](https://github.com/technojam/GitHub-Task/blob/master/img/pull%20request.png)
  ##
- ![](https://i.ibb.co/hMKw4J0/2020-07-02-11-50.png)
+
 
